@@ -54,7 +54,7 @@ I am a class 11th student, passionate about exploring the workflow of web develo
 
 ## 🔗 Links & Contact
 
-- 🌐 Portfolio: https://devanshbisht.vercel.app
+- 🌐 Portfolio: https://devanshbisht.tech/
 - 🐙 GitHub: https://github.com/webwithdev  
 - 💼 Twitter: https://x.com/webwithdev  
 - 📫 Email: bishtdevansh03@gmail.com 
