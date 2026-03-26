@@ -5,7 +5,7 @@ I am a class 11th student, passionate about exploring the workflow of web develo
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Up To 
 
 - 🌱 Currently learning **React,Nextjs & Backend Development**  
 - 💻 Building full stack projects  
