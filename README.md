@@ -12,7 +12,7 @@ I am a class 11th student, passionate about exploring the workflow of web develo
 - 🎯 Preparing for **beginner-level internships**  
 - 📚 Improving DSA and problem-solving skills  
   
----
+--- 
 
 ## 🛠️ Tech Stack
 ### Frontend
