@@ -11,7 +11,7 @@ I am a class 11th student, passionate about exploring the workflow of web develo
 - 💻 Building full stack projects  
 - 🎯 Preparing for **beginner-level internships**  
 - 📚 Improving DSA and problem-solving skills  
-
+  
 ---
 
 ## 🛠️ Tech Stack
